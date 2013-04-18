@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /sbin/ip link set dev eth0 down
